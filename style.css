@@ -559,6 +559,14 @@ nav a i {
 /* ==================== */
 
 /* Tablet */
+@media (min-width: 340px) {
+  .list-services .container {
+    grid-template-columns: 1fr;
+  }
+  .service-images img {
+    width: 350px;
+  }
+}
 @media (min-width: 640px) {
   .container {
     width: 80%;
@@ -578,6 +586,10 @@ nav a i {
   .section1 .container {
     grid-template-columns: 1fr 1fr;
     height: 100%;
+  }
+
+  .service-box img {
+    width: 70%;
   }
 }
 
