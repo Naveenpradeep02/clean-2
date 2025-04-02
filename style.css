@@ -124,10 +124,11 @@ nav a i {
 }
 /* ================= */
 /* ==========section 1========== */
+/* #16c47f */
 .section1 {
   width: 100%;
   height: 100%;
-  background: linear-gradient(rgba(0, 0, 0, 0.453), #16c47f),
+  background: linear-gradient(rgba(0, 0, 0, 0.453), #ed7d5196),
     url(./img/bg-cleaninghome.jpg) no-repeat;
   background-position: center;
   background-size: cover;
